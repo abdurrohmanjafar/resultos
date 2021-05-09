@@ -1,0 +1,18 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             4070108       0   4070108   0% /dev
+tmpfs             816996    8624    808372   2% /run
+/dev/sda2       65543732 1714172  60470328   3% /
+tmpfs            4084976       0   4084976   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            4084976       0   4084976   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             816992       0    816992   0% /run/user/1001
+ZCZC pwd
+/home/abdurrohmanjafar/RESULT/W08
+ZCZC date
+Sun 09 May 2021 02:55:19 PM WIB
+ZCZC hostname
+abdurrohmanjafar
+ZCZC chktoken
+abdurrohmanjafar 5519-C941
